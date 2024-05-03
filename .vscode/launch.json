@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Open 01.02day.页面布局的本质是盒子.html",
+            "file": "c:\\Users\\85243\\AppData\\Local\\Temp\\Temp1_02day.zip\\01.02day.页面布局的本质是盒子.html"
+        }
+    ]
+}
