@@ -67,80 +67,64 @@
 
     - name: Easy Hexo
       link: https://easyhexo.com/
-      avatar: https://s21.ax1x.com/2024/05/09/pkVojC8.png
+      avatar: https://s21.ax1x.com/2024/05/10/pkZ3BTO.png
       descr: 轻松入门 Hexo
       siteshot: https://s21.ax1x.com/2024/05/09/pkVT6xg.png
 
       flink_style: flexcard || butterfly     
 
-    - name: Easy Hexo
-      link: https://easyhexo.com/
-      avatar: https://s21.ax1x.com/2024/05/09/pkVojC8.png
-      descr: 轻松入门 Hexo
-      siteshot: https://s21.ax1x.com/2024/05/09/pkVT6xg.png
+    - name: 梦创空间
+      link: https://www.cwwwxl.top/
+      avatar: https://s21.ax1x.com/2024/05/10/pkZ3otg.png
+      descr: 梦创空间
+      siteshot: https://s21.ax1x.com/2024/05/10/pkZ3fnP.png
 
       flink_style: flexcard || butterfly            
 
-    - name: Easy Hexo
-      link: https://easyhexo.com/
-      avatar: https://s21.ax1x.com/2024/05/09/pkVojC8.png
-      descr: 轻松入门 Hexo
-      siteshot: https://s21.ax1x.com/2024/05/09/pkVT6xg.png
+    - name: malt
+      link: https://www.maltm.com/
+      avatar: https://s21.ax1x.com/2024/05/10/pkZ8Anx.png
+      descr: 想象  ·  美学
+      siteshot: https://s21.ax1x.com/2024/05/10/pkZ3b1s.png
 
       flink_style: flexcard || butterfly            
 
-    - name: Easy Hexo
-      link: https://easyhexo.com/
-      avatar: https://s21.ax1x.com/2024/05/09/pkVojC8.png
-      descr: 轻松入门 Hexo
-      siteshot: https://s21.ax1x.com/2024/05/09/pkVT6xg.png
-
+    - name: Qexo
+      link: https://www.oplog.cn/qexo/
+      avatar: https://s21.ax1x.com/2024/05/10/pkZJEFO.png
+      descr: Qexo一个美观、强大的在线 静态博客 管理器
+      siteshot: https://s21.ax1x.com/2024/05/10/pkZJFw6.png
+      
       flink_style: flexcard || butterfly 
 
-    - name: Easy Hexo
-      link: https://easyhexo.com/
-      avatar: https://s21.ax1x.com/2024/05/09/pkVojC8.png
-      descr: 轻松入门 Hexo
-      siteshot: https://s21.ax1x.com/2024/05/09/pkVT6xg.png
+    - name: DizzyLab
+      link: https://www.dizzylab.net/albums/d/AG01-DIGI/
+      avatar: https://s21.ax1x.com/2024/05/10/pkZJ000.png
+      descr: 二次元律动
+      siteshot: https://s21.ax1x.com/2024/05/10/pkZJU6s.png
 
       flink_style: flexcard || butterfly  
 
-    - name: Easy Hexo
-      link: https://easyhexo.com/
-      avatar: https://s21.ax1x.com/2024/05/09/pkVojC8.png
-      descr: 轻松入门 Hexo
-      siteshot: https://s21.ax1x.com/2024/05/09/pkVT6xg.png
+    - name: Fomalhaut
+      link: https://www.fomal.cc/
+      avatar: https://s21.ax1x.com/2024/05/10/pkZJ476.png
+      descr: Welcome to Fomalhaut
+      siteshot: https://s21.ax1x.com/2024/05/10/pkZJIAK.png
 
       flink_style: flexcard || butterfly 
 
-    - name: Easy Hexo
-      link: https://easyhexo.com/
+    - name: 张洪HEO
+      link: https://blog.zhheo.com/
+      avatar: https://s21.ax1x.com/2024/05/10/pkZY8D1.png
+      descr: 分析设计与科技生活
+      siteshot: https://s21.ax1x.com/2024/05/10/pkZYYE6.png
+
+      flink_style: flexcard || butterfly
+
+    - name: Vercel
+      link: https://vercel.com/
       avatar: https://s21.ax1x.com/2024/05/09/pkVojC8.png
       descr: 轻松入门 Hexo
       siteshot: https://s21.ax1x.com/2024/05/09/pkVT6xg.png
 
       flink_style: flexcard || butterfly
-
-    - name: Easy Hexo
-      link: https://easyhexo.com/
-      avatar: https://s21.ax1x.com/2024/05/09/pkVojC8.png
-      descr: 轻松入门 Hexo
-      siteshot: https://s21.ax1x.com/2024/05/09/pkVT6xg.png
-
-      flink_style: flexcard || butterfly
-
-    - name: Easy Hexo
-      link: https://easyhexo.com/
-      avatar: https://s21.ax1x.com/2024/05/09/pkVojC8.png
-      descr: 轻松入门 Hexo
-      siteshot: https://s21.ax1x.com/2024/05/09/pkVT6xg.png
-
-      flink_style: flexcard || butterfly
-
-    - name: Easy Hexo
-      link: https://easyhexo.com/
-      avatar: https://s21.ax1x.com/2024/05/09/pkVojC8.png
-      descr: 轻松入门 Hexo
-      siteshot: https://s21.ax1x.com/2024/05/09/pkVT6xg.png
-
-      flink_style: flexcard || butterfly                                                                                                        

@@ -85,7 +85,8 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-     https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
+        https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
+    
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
@@ -153,7 +154,7 @@ toc:
   scroll_percent: true
 
 post_copyright:
-  enable: true
+  enable: false
   decode: false
   author_href:
   license: CC BY-NC-SA 4.0
@@ -903,7 +904,7 @@ inject:
   bottom: 
      - <link rel="stylesheet" href="/css/background.css" >
      - <script src="//cdn.bootcss.com/pace/1.0.2/pace.min.js"></script>
-     - <div class="aplayer no-destroy" data-id="7783137902" data-server="tencent" data-type="playlist" data-fixed="true" data-autoplay="true"> </div>
+     - <div class="aplayer no-destroy" data-id="497325534" data-server="netease" data-type="playlist" data-fixed="true" data-autoplay="true"> </div>
 
 
 # CDN
